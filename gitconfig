@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mnavarrosotes@gmail.com
+	name = marc navarro
